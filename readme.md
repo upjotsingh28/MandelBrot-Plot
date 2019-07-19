@@ -1,4 +1,4 @@
-# Mandel Brot
+# Mandel Brot Images
 
 ## These are some maximum resolution images of Mandel Brot Fractel Set obtained from Python programming.One of my favorite nature's plot.
 
@@ -15,5 +15,5 @@
 <p align='center'>
 <img height='450px' width='70%' src='https://user-images.githubusercontent.com/46626425/61553547-41e78480-aa78-11e9-85fc-c14629ae6369.png'>
 </p>
-<!-- <img height='300px' width='400px' src=''>
- -->
+
+# Thank You.
